@@ -1,0 +1,20 @@
+{
+  "source_repository": "Bartron773/best-human-moment",
+  "source_default_sha": "71302d75661eb6571d5cb4511a4e492d37de95da",
+  "organization_sha_before_audit": "08ec448772b4a4b0e74b17e5a966846705f7194c",
+  "common_ancestor": "71302d75661eb6571d5cb4511a4e492d37de95da",
+  "source_description": "What does it feel like to be seen? Part psychology, part design museum, part observatory. The Human Room is an immersive exhibit inside Simple Minds Studios. Visitors first complete a comprehensive psychological assessment built from six research-backed frameworks (VIA Character Strengths, Big Five, Emotional Intelligence, Executive Function, CliftonStrengths, and Human Infrastructure Capacity). The assessment generates a living Human Print\u2014not a personality label, but a multidimensional portrait of how someone thinks, learns, collaborates, leads, forms relationships, and maintains agency within complex systems.",
+  "source_homepage": null,
+  "preserved_branches": [],
+  "source_branch_map": [
+    {
+      "source_branch": "main",
+      "sha": "71302d75661eb6571d5cb4511a4e492d37de95da",
+      "preserved_in": "organization main ancestry"
+    }
+  ],
+  "source_tags": [],
+  "issues_and_pull_requests": [],
+  "releases": [],
+  "note": "Git history and branch tips are preserved under archive/personal/*. GitHub issue/PR numbers, review threads, check runs, permissions and secrets are not Git objects. Source records remain at their original URLs. No credential values have been copied."
+}
